@@ -3,9 +3,6 @@ package JavaCodes.BasicJava;
 import java.text.DecimalFormat;
 
 
-
-package com.rgagnon.howto;
-
 import java.text.*;
 
 class FrenchNumberToWords {
