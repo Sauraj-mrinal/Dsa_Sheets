@@ -1,4 +1,4 @@
-package JavaCodes.BasicJava;
+// package JavaCodes.BasicJava;
 // Q25. Write a java program to read the int value from user and print sanju if number is divisible by 3, 
 // print geeta if number is divisible by 5, print sanju weds geeta if number is divisible by both 385 otherwise print breakup?
 
