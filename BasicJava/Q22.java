@@ -1,4 +1,4 @@
-package JavaCodes.BasicJava;
+// package JavaCodes.BasicJava;
 // Q22. Write a java program to check whether the user entered number is palindrome or not? 
 //Explanation: Palindrome number are those number which are same after reverse.
 
